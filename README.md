@@ -47,6 +47,7 @@ const steps = [
 | `optionStyle` | `PropTypes.object` | | The style object to use to override the option container |
 | `optionElementStyle` | `PropTypes.object` | | The style object to use to override the option element |
 | `optionFontColor` | `PropTypes.string` | | Option font color |
+| `optionFontStyle` | `PropTypes.string` | | *Option font style to customize Text inside component |
 | `optionBubbleColor` | `PropTypes.string` | | Option bubble color |
 | `className` | `PropTypes.string` | | Add a class name to root element |
 | `contentStyle` | `PropTypes.object` | | The style object to use to override the scroll element |
