@@ -44,6 +44,7 @@ const steps = [
 | `botDelay` | `PropTypes.number` | `1000` | The delay time of bot messages |
 | `botFontColor` | `PropTypes.string` | `#fff` | Bot font color |
 | `bubbleStyle` | `PropTypes.object` | | The style object to use to override the bubble element |
+| `bubbleFontStyle` | `PropTypes.object` | | *The style object to use to override the Text component inside the bubble |
 | `optionStyle` | `PropTypes.object` | | The style object to use to override the option container |
 | `optionElementStyle` | `PropTypes.object` | | The style object to use to override the option element |
 | `optionFontColor` | `PropTypes.string` | | Option font color |
